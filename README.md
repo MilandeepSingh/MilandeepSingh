@@ -1,7 +1,11 @@
+![logo](https://media-exp1.licdn.com/dms/image/C5616AQGdodz898EfPA/profile-displaybackgroundimage-shrink_350_1400/0/1611602348727?e=1675296000&v=beta&t=tvOVddlprR9YzC_IBcElK1iHSXg1wmqaPvERynaeEgw)
+
 <h1 align="center">Hi 👋, I'm Milandeep Singh</h1>
 <h3 align="center">A passionate learner who loves to put his learnings to work.</h3>
 
 <h3 align="left">Connect with me:</h3>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 <p align="left">
  <a href="https://www.codechef.com/users/milandeepsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="milandeepsingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/milandeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milandeepsingh" height="30" width="40" /></a>
